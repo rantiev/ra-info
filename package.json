@@ -24,8 +24,7 @@
 	},
 	"homepage": "https://github.com/rantiev/ra-info",
 	"dependencies": {
-		"request": "*",
-		"cli-color": "*",
-		"cheerio": "*"
+		"cheerio": "*",
+		"cli-color": "*"
 	}
 }
